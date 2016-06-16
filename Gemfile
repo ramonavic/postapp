@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'cancancan'
 
 gem 'devise', '~> 3.5'
 
